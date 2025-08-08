@@ -1,0 +1,23 @@
+Video Karesi Analiz Sonuçları (BLIP Modeli)
+========================================
+Dosya: frame_0000.jpg
+Açıklama: there is a man in a suit and tie talking to another man
+---
+Dosya: frame_0001.jpg
+Açıklama: arafed man in a suit and tie talking to another man
+---
+Dosya: frame_0002.jpg
+Açıklama: arafed man in a suit talking to another man in a suit
+---
+Dosya: frame_0003.jpg
+Açıklama: two men in suits talking in a room with a bookcase
+---
+Dosya: frame_0004.jpg
+Açıklama: two men in suits standing in a room with a desk
+---
+Dosya: frame_0005.jpg
+Açıklama: two men in suits shaking hands in an office
+---
+Dosya: frame_0006.jpg
+Açıklama: two men in suits and ties standing in an office
+---
